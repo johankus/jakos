@@ -1,3 +1,14 @@
-#obrazek {
-    width: 50%;
+#imgobrazek {
+    width: 200px;
+    height: 500px;
+}
+#name {
+    color: #ffaabb;
+}
+#Imie {
+    color: #f00;
+}
+
+#nazwisko {
+    color: crimson;
 }
